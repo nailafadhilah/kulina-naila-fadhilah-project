@@ -1,0 +1,1 @@
+MySQL Shell==8.0.2
