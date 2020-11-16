@@ -12,7 +12,7 @@ Therefore, what I think Kulina should consider to do is to whether:
 
 The business recommendations I have come up with is for Kulina to highlight which products does most users most frequent to buy? We can first collect the data using the existing dataframe to make a raw plan to increase sales.
 
-![pie_product](https://user-images.githubusercontent.com/33155838/99234283-ecb3b280-2826-11eb-8abd-72d84bee5ebc.png)
+![pie_product](https://user-images.githubusercontent.com/33155838/99235836-f1796600-2828-11eb-8d77-558afb1a39b7.png)
 
 ## Final Conclusion
 The conclusion that can be made by the pie chart of total product purchases by number of users is certain products are users' favorites among the others. We can utilize this data and make a marketing strategy such as grouping the most favorites products with the less and least favorites products and sell it as a package with exciting discounts.
